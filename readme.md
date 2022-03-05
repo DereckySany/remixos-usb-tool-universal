@@ -13,7 +13,7 @@ Esta é um boa perqunta,Assim que o codigo for analizando e checado será inicia
 Infelizmente não ha uma data para o inicio.
 
 ### Onde posso baixar a ferramenta Remix OS USB? (offline)
-Ele pode ser encontrado no pacote de lançamento do Remix OS para PC. Faça o download [aqui] (http://www.jide.com/en/reixos-for-pc#downloadNow)
+Ele pode ser encontrado no pacote de lançamento do Remix OS para PC. Faça o download [Aqui](http://www.jide.com/en/reixos-for-pc#downloadNow)
 
 ### Contate-Nos? (offline)
 Envie um [tíquete de suporte](http://support.jide.com/hc/en-us/requests/new)
@@ -31,7 +31,7 @@ This Remix OS UBS Tool is built on the [Unetbootin](http://unetbootin.github.io)
 Remix OS UBS Tool is designed for users to flash Remix OS for PC onto a USB Flash Drive. 
 
 ### Where can I download Remix OS USB Tool?
-It can be found in the Remix OS for PC release pacakge. Please download it from [here] (http://www.jide.com/en/remixos-for-pc#downloadNow)
+It can be found in the Remix OS for PC release pacakge. Please download it from [Here](http://www.jide.com/en/remixos-for-pc#downloadNow)
 
 ### Contact us? 
 Please submit a [support ticket](http://support.jide.com/hc/en-us/requests/new)
