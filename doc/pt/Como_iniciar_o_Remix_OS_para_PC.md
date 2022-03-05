@@ -61,7 +61,7 @@ Para o UEFI, certifique-se de que a inicialização segura esteja desativada.
 
 
 Notas para instalação da unidade flash USB:
-Se as instruções de inicialização acima não funcionarem para o seu PC, consulte estes links:
+Se as instruções de inicialização acima não funcionarem para o seu PC, consulte estes links: (offline??)
 http://www.boot-disk.com/boot_priority.htm
 https://craftingflash.com/info/how-boot-computer-from-usb-flash-
 
@@ -75,10 +75,10 @@ https://support.apple.com/en-us/HT201663
 
 ### C. Comentários:
 
-Compartilhe seus comentários com o link abaixo
+Compartilhe seus comentários com o link abaixo (offline??)
 https://docs.google.com/forms/d/16QlPRKeEih18YJj8I_duZKO54vZkUWa-vIds5TanIm8/viewform
 
-Junte-se ao nosso Grupo do Google para uma discussão adicional com o link abaixo
+Junte-se ao nosso Grupo do Google para uma discussão adicional com o link abaixo (offline??)
 https://groups.google.com/forum/#!forum/remix-os-for-pc
 
 
