@@ -1,4 +1,4 @@
-Table of Content:
+## Table of Content:
 
 A. MD5 Verification
 
@@ -12,7 +12,7 @@ D. Data collection
 ===========================================
 
 
-A. MD5 Verification
+### A. MD5 Verification
 
 To ensure you are using the official version, please visit the Download section of http://www.jide.com/en/remixos-for-pc
 
@@ -20,7 +20,7 @@ To ensure you are using the official version, please visit the Download section 
 ===========================================
 
 
-B. How to launch Remix OS for PC
+### B. How to launch Remix OS for PC
 
 
 -For Hard Disk Installation:
@@ -73,7 +73,7 @@ https://support.apple.com/en-us/HT201663
 ===========================================
 
 
-C. Feedback:
+### C. Feedback:
 
 Share your feedback with the link below
 https://docs.google.com/forms/d/16QlPRKeEih18YJj8I_duZKO54vZkUWa-vIds5TanIm8/viewform
@@ -85,7 +85,7 @@ https://groups.google.com/forum/#!forum/remix-os-for-pc
 ===========================================
 
 
-D. Data collection:
+### D. Data collection:
 
 To help us improve the user experience of the installation tool, we may collect date regarding your device type, ISO file version, tool performance, and button clicks. 
 This data is strictly confidential and will only be used for product design. 
