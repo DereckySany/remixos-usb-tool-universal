@@ -1,9 +1,16 @@
 Ferramenta USB Remix OS
 ----------
 
-### Oque é isso?
+### Oque é isso originalmente?
 Esta ferramenta UBS do Remix OS é construída no projeto de código aberto [Unetbootin](http://unetbootin.github.io).
 O Remix OS UBS Tool foi projetado para que os usuários façam o flash do Remix OS para PC em uma unidade flash USB.
+
+### Novo proposito é?
+Esta ferramenta poderá ser usada para flechar qualquer imagem do [Android X86](https://www.android-x86.org/) ou uma variante em formato ISO.
+
+### Quando estará Disponivel?
+Esta é um boa perqunta,Assim que o codigo for analizando e checado será iniciado um novo branch com as mudanças.
+Infelizmente não ha uma data para o inicio.
 
 ### Onde posso baixar a ferramenta Remix OS USB? (offline)
 Ele pode ser encontrado no pacote de lançamento do Remix OS para PC. Faça o download [aqui] (http://www.jide.com/en/reixos-for-pc#downloadNow)
